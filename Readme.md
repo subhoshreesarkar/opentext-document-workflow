@@ -451,10 +451,3 @@ cat audit.log
 
 ---
 
-## Author
-
-**Ibtisam**
-Application Support Analyst | Melbourne, Australia
-[GitHub Profile](https://github.com/YOUR_USERNAME)
-
-> Built as part of an interview preparation portfolio demonstrating OpenText ECM concepts, Python application development, REST API design, and structured troubleshooting methodology.
